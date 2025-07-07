@@ -1,0 +1,13 @@
+{
+  "name": "nuxt-route-in-async-data-demo",
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^3.17.6",
+    "vue-router": "latest"
+  }
+}
